@@ -1,0 +1,10 @@
+{
+  "name": "angular-seed-lite",
+  "description": "A lite version of an angular-seed boilerplate",
+  "version": "0.0.0",
+  "homepage": "https://github.com/chadeddington/angular-seed-lite",
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0",
+  }
+}

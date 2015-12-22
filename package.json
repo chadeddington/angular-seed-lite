@@ -1,0 +1,17 @@
+{
+  "name": "angular-seed-lite",
+  "version": "0.0.0",
+  "description": "A lite version of an angular-seed boilerplate",
+  "repository": "https://github.com/chadeddington/angular-seed-lite",
+  "devDependencies": {
+    "bower": "^1.3.1",
+    "http-server": "^0.6.1",
+  },
+  "scripts": {
+    "postinstall": "bower install",
+
+    "prestart": "npm install",
+    "start": "http-server -a localhost -p 8000 -c-1",
+
+  }
+}
